@@ -1,0 +1,15 @@
+G:\PM4\NechaevPM4\NechaevPM4\bin\Debug\NechaevPM4.exe.config
+G:\PM4\NechaevPM4\NechaevPM4\bin\Debug\NechaevPM4.exe
+G:\PM4\NechaevPM4\NechaevPM4\bin\Debug\NechaevPM4.pdb
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\NechaevPM4.csproj.AssemblyReference.cache
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\MainWindow.g.cs
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\App.g.cs
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\NechaevPM4_MarkupCompile.cache
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\NechaevPM4_MarkupCompile.lref
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\MainWindow.baml
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\NechaevPM4.g.resources
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\NechaevPM4.Properties.Resources.resources
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\NechaevPM4.csproj.GenerateResource.cache
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\NechaevPM4.csproj.CoreCompileInputs.cache
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\NechaevPM4.exe
+G:\PM4\NechaevPM4\NechaevPM4\obj\Debug\NechaevPM4.pdb
